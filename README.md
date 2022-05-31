@@ -1,7 +1,7 @@
-## Medical-Data-Visualizer
+# Medical-Data-Visualizer
 Project inspiration: https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-projects
 
-# Tasks
+## Tasks
 Create a chart similar to `examples/Figure_1.png`, where we show the counts of good and bad outcomes for the `cholesterol`, `gluc`, `alco`, `active`, and `smoke` variables for patients with cardio=1 and cardio=0 in different panels.
 
 Use the data to complete the following tasks in `medical_data_visualizer.py`:
